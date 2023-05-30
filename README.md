@@ -1,7 +1,6 @@
-![Alt text](./rsrc/logo.svg)
-
 🔭 I’m currently working on ...
 
+![Alt text](./rsrc/logo.svg)
 
 <!--
 **raurodse/raurodse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
